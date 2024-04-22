@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\lcdcounteer.obj" 
+TO ".\Objects\lcdcounter" 
+PRINT(".\Listings\lcdcounter.m51")
